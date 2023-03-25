@@ -1,0 +1,9 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = 360°
+
+### Title
+tour.name = Teste
